@@ -40,17 +40,17 @@
 .spinner .bounce1 {
   -webkit-animation-delay: -0.32s;
   animation-delay: -0.32s;
-  background-color: #82B440;
+  background-color: #99FF64;
 }
 
 .spinner .bounce2 {
   -webkit-animation-delay: -0.16s;
   animation-delay: -0.16s;
-  background-color: #07AAA5;
+  background-color: #00CDFF;
 }
 
 .spinner .bounce3 {
-  background-color: #EC768C;
+  background-color: #FF6464;
 }
 
 @-webkit-keyframes sk-bouncedelay {
