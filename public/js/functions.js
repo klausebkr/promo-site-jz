@@ -108,16 +108,16 @@ jQuery(function($) {'use strict',
   
 
 //Change Diffrent Logos on Nav
-  jQuery(window).scroll(function() {
-  
-	 if (jQuery(window).scrollTop() >= 25) {
-		jQuery(".logo > img").attr("src", "images/TELIA_P_RGB.png");
-	 }
-	  else {
-		jQuery(".logo > img").attr("src", "images/TELIA_W_RGB.png");
-	 }
-  
-  });
+//   jQuery(window).scroll(function() {
+//
+// 	 if (jQuery(window).scrollTop() >= 25) {
+// 		jQuery(".logo > img").attr("src", "images/TELIA_P_RGB.png");
+// 	 }
+// 	  else {
+// 		jQuery(".logo > img").attr("src", "images/TELIA_W_RGB.png");
+// 	 }
+//
+//   });
    
 
 // Scroll One Page Menu
