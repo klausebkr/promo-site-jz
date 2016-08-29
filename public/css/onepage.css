@@ -193,7 +193,7 @@ p.title{
 }
 
 .green{
-	background:#99FF64;
+	background:#00CC66;
 }
 
 .pink{
@@ -884,11 +884,11 @@ ul.top-right li a:hover.instagram{
   display: inline-block;
   font-size:50px;
 }
-.color1{ color:#00CDFF;}
-.color2{ color:#00CDCD;}
+.color1{ color:#FF9B00;}
+.color2{ color:#FF3264;}
 .color3{ color:#FF00CD;}
 .color4{ color:#990AE3;}
-.color5{ color:#00FFFF;}
+.color5{ color:#0099FF;}
 .color6{ color:#00CC66;}
 #about .canvas-box:hover span i,
 .counters-item:hover i,
@@ -900,10 +900,10 @@ ul.top-right li a:hover.instagram{
 	transform:scale(1.3);
 }
 #about .canvas-box:hover h4.color1{
-	color:#00CDFF;
+	color:#FF9B00;
 }
 #about .canvas-box:hover h4.color2{
-	color:#00CDCD;
+	color:#FF3264;
 }
 #about .canvas-box:hover h4.color3{
 	color:#FF00CD;
@@ -912,7 +912,7 @@ ul.top-right li a:hover.instagram{
 	color:#990AE3;
 }
 #about .canvas-box:hover h4.color5{
-	color:#00FFFF;
+	color:#0099FF;
 }
 #about .canvas-box:hover h4.color6{
 	color:#00CC66;
