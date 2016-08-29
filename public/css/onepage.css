@@ -829,7 +829,7 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Banner With Text Rotator ------------ */
 .text-rotator{
-	background:url("../images/kids-purple.jpg");
+	background:url("../images/pebble-background.jpg");
 	padding-top:200px;
 	background-size:cover;
 	background-attachment:fixed;
@@ -927,7 +927,7 @@ ul.top-right li a:hover.instagram{
 
 /* ------------ Paralax background ------------ */
 #bg-paralax {
-  background:url("../images/hverdagen.jpg") no-repeat;
+  background:url("../images/pebble-image.jpg") no-repeat;
   color: #fff;
   padding:10% 0;
 }
