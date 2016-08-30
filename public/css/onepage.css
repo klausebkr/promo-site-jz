@@ -1055,6 +1055,12 @@ ul.top-right li a:hover.instagram {
     padding: 10% 0;
 }
 
+#bg-paralax.lego {
+    background: url("../images/lego-car.jpg") no-repeat;
+    color: #fff;
+    padding: 10% 0;
+}
+
 #bg-paralax, #testinomial {
     background-size: cover;
     background-position: center center;
