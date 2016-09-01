@@ -1302,11 +1302,11 @@ ul.top-right li a:hover.instagram {
 }
 
 .we-do .do-wrap a.purple-text:hover::before, .we-do .do-wrap a.purple-text:focus::before {
-    background: #74c8b8;
+    background: #c183d6;
 }
 
 .we-do .do-wrap a.purple-text:hover, .we-do .do-wrap a.purple-text:focus {
-    color: #74c8b8;
+    color: #c183d6;
 }
 
 .we-do .do-wrap a.pink-text:hover::before, .we-do .do-wrap a.pink-text:focus::before {
