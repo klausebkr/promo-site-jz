@@ -183,7 +183,7 @@ jQuery(function($) {'use strict',
   //Paralax Page Slider
 	var owl = $("#paralax-slider");
   owl.owlCarousel({
-    autoPlay: 3000,
+    autoPlay: 5000,
 	 navigation : false,
     singleItem : true,
     transitionStyle : "fade"
